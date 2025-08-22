@@ -1,0 +1,138 @@
+
+
+
+{"model": "HuggingFaceTB/SmolVLM-256M-Instruct", "image": "sock.png",
+  "response_text": " A purple cloth is in the foreground of this room."}
+
+{"model": "HuggingFaceTB/SmolVLM-256M-Instruct", "image": "cat.png",
+  "response_text": " White cat on a blue couch."}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"timestamp": "2025-08-21T15:28:30.069788", "model": "HuggingFaceTB/SmolVLM-256M-Instruct", "prompt_name": "system_prompt1", "image": "sock.png", "response_text": " A purple cloth is in the middle of the floor."}
+{"timestamp": "2025-08-21T15:28:33.000329", "model": "HuggingFaceTB/SmolVLM-256M-Instruct", "prompt_name": "system_prompt1", "image": "cat.png", "response_text": " White Cat\n\nThe cat is very small and has very pale fur. It is looking at the camera and seems to be curious about something. The cat is on a blue textured fabric couch. The couch is against a plain wall."}
+{"timestamp": "2025-08-21T15:28:36.628621", "model": "HuggingFaceTB/SmolVLM-256M-Instruct", "prompt_name": "system_prompt2", "image": "sock.png", "response_text": " A purple cloth is in the bottom right corner of the image."}
+{"timestamp": "2025-08-21T15:28:39.678193", "model": "HuggingFaceTB/SmolVLM-256M-Instruct", "prompt_name": "system_prompt2", "image": "cat.png", "response_text": " White cat on a blue couch, looking left."}
+{"timestamp": "2025-08-21T15:28:42.057013", "model": "HuggingFaceTB/SmolVLM-256M-Instruct", "prompt_name": "system_prompt3", "image": "sock.png", "response_text": " A purple cloth is in the bottom right corner of the image."}
+{"timestamp": "2025-08-21T15:28:45.067244", "model": "HuggingFaceTB/SmolVLM-256M-Instruct", "prompt_name": "system_prompt3", "image": "cat.png", "response_text": " White Cat\n\nThe cat is very small and has very pale fur. It is looking at the camera and seems to be curious about something. The cat is on a blue, textured fabric couch. The couch is against a wall that is not very visible. There is a pillow behind the cat, but it is not very noticeable."}
+
+
+
+
+
+
+
+{"timestamp": "2025-08-21T15:28:58.844028", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt", "image": "sock.png", "response_text": "YES"}
+{"timestamp": "2025-08-21T15:28:59.680904", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt", "image": "cat.png", "response_text": "YES\n\nThe cat is indeed white and appears to be a small breed. It's sitting on a gray blanket with a floral pattern, and there's a brown hat on the blanket behind it. The cat looks alert and attentive, with its ears perked up and eyes focused."}
+{"timestamp": "2025-08-21T15:29:05.289015", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt3", "image": "sock.png", "response_text": "no"}
+{"timestamp": "2025-08-21T15:29:05.763414", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt3", "image": "cat.png", "response_text": "no pick"}
+
+
+
+
+
+
+
+{"model": "LiquidAI/LFM2-VL-450M", "image": "sock.png",
+  "response_text": "YES – <≤15-word reason>"}
+{"model": "LiquidAI/LFM2-VL-450M", "image": "cat.png",
+  "response_text": "YES – <≤15-word reason>"}
+
+
+
+
+
+
+
+
+{"timestamp": "2025-08-21T15:29:04.203702", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt2", "image": "sock.png", "response_text": "YES."}
+{"timestamp": "2025-08-21T15:29:04.768334", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt2", "image": "cat.png", "response_text": "YES"}
+{"timestamp": "2025-08-21T15:29:05.289015", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt3", "image": "sock.png", "response_text": "no"}
+{"timestamp": "2025-08-21T15:29:05.763414", "model": "LiquidAI/LFM2-VL-450M", "prompt_name": "system_prompt3", "image": "cat.png", "response_text": "no pick"}
+
+
+
+{"timestamp": "2025-08-21T15:29:17.223216", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt", "image": "sock.png", "response_text": "YES"}
+{"timestamp": "2025-08-21T15:29:22.104818", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt", "image": "cat.png", "response_text": "YES"}
+
+
+
+{"timestamp": "2025-08-21T15:29:23.315925", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt1", "image": "sock.png", "response_text": "YES – <≤15-word reason>\n\nThe image shows a pair of socks on a wooden floor. While socks are typically small items, their presence on the floor could be considered unusual depending on the context. However, socks are generally not large enough to be classified as \"living beings\" or to be considered a significant safety hazard. The socks appear to be casually placed, suggesting they may have been left there by someone or are part of a larger scene that isn't fully visible in the image."}
+{"timestamp": "2025-08-21T15:29:33.429347", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt1", "image": "cat.png", "response_text": "YES – The cat is not a living being."}
+
+{"timestamp": "2025-08-21T15:29:34.946025", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt2", "image": "sock.png", "response_text": "YES"}
+{"timestamp": "2025-08-21T15:29:39.351651", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt2", "image": "cat.png", "response_text": "YES – The cat is small, light, and within my grasp width."}
+{"timestamp": "2025-08-21T15:29:41.229532", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt3", "image": "sock.png", "response_text": "The image shows a hallway with a wooden floor and white walls. There are two metal poles with circular bases, likely for clothing hangers. A black jacket is hanging on one of the poles.\n\nOn the floor, there are two items: a purple sock and a black backpack. The sock is lying flat, while the backpack is standing upright.\n\nThe hallway leads to another room with a similar floor and white walls. In this room, there's a black backpack and a black jacket hanging on the wall. The room also has a mural of a forest on the wall.\n\nThe lighting in the hallway is warm and yellowish, creating a cozy atmosphere. There's a light fixture visible in the ceiling of the hallway.\n\nOverall, the scene depicts a typical residential hallway with personal belongings and decorative elements, suggesting it's a lived-in space."}
+{"timestamp": "2025-08-21T15:29:55.047034", "model": "LiquidAI/LFM2-VL-1.6B", "prompt_name": "system_prompt3", "image": "cat.png", "response_text": "No pick.\n\nThe cat is lying on a blue couch, and there's a brown hat on its head. The cat looks calm and not interested in picking up the hat."}
+
+
+
+
+
+
+
+
+
+
+{"timestamp": "2025-08-21T15:30:10.417420", "model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "system_prompt", "image": "sock.png", "response_text": "YES"}
+{"timestamp": "2025-08-21T15:30:15.917573", "model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "system_prompt", "image": "cat.png", "response_text": "NO"}
+
+
+{"model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "s1", "image": "sock.png",
+  "response_text": "NO – The sock is too small and close to the door, posing a safety risk."}
+{"model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "s1", "image": "cat.png",
+  "response_text": "NO – The cat is a living being and cannot be vacuumed."}
+
+{"model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "s2", "image": "sock.png",
+  "response_text": "YES – The sock is tiny, light, and within my grasp width."}
+{"model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "s2", "image": "cat.png",
+  "response_text": "NO – The cat is a living being I must not touch."}
+
+{"timestamp": "2025-08-21T15:30:31.906802", "model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "system_prompt3", "image": "sock.png", "response_text": "pick\nThe purple sock on the floor."}
+{"timestamp": "2025-08-21T15:30:36.414349", "model": "Qwen/Qwen2-VL-2B-Instruct", "prompt_name": "system_prompt3", "image": "cat.png", "response_text": "no pick"}
+
+
+
+
+
+
+
+
+
+
+
+{"timestamp": "2025-08-21T15:32:43.756340", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt", "image": "sock.png", "response_text": "YES. The sock is small and light, weighing less than 1.4 kg. It fits within the width limit of your gripper arm and is at floor level, making it easy to pick up."}
+{"timestamp": "2025-08-21T15:32:54.791519", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt", "image": "cat.png", "response_text": "NO"}
+{"timestamp": "2025-08-21T15:32:57.102286", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt1", "image": "sock.png", "response_text": "YES – Sock is small and light, fits within reach and weight limits."}
+{"timestamp": "2025-08-21T15:33:02.603828", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt1", "image": "cat.png", "response_text": "NO – The cat is a living being, so it cannot be lifted or grasped."}
+{"timestamp": "2025-08-21T15:33:05.630201", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt2", "image": "sock.png", "response_text": "YES – The sock is small, light, and within my grasp width."}
+{"timestamp": "2025-08-21T15:33:11.479762", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt2", "image": "cat.png", "response_text": "NO – The cat is a living being I must not touch."}
+{"timestamp": "2025-08-21T15:33:14.592671", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt3", "image": "sock.png", "response_text": "pick socks"}
+{"timestamp": "2025-08-21T15:33:21.049572", "model": "Qwen/Qwen2.5-VL-3B-Instruct", "prompt_name": "system_prompt3", "image": "cat.png", "response_text": "unsure"}
+
+
+{"timestamp": "2025-08-21T15:33:41.631591", "model": "google/gemma-3-4b-it", "prompt_name": "system_prompt", "image": "sock.png", "response_text": "YES\nThe sock appears to be small and lightweight, and it is within my reach at floor level, so I can successfully grasp and pick it up."}
+{"timestamp": "2025-08-21T15:34:04.066101", "model": "google/gemma-3-4b-it", "prompt_name": "system_prompt", "image": "cat.png", "response_text": "NO\nThe cat is a living being, and attempting to grasp it would cause harm and distress, so I cannot perform this action."}
+
+{"model": "google/gemma-3-4b-it", "image": "sock.png",
+  "response_text": "YES – It’s a small, lightweight sock within my operational parameters."}
+{"model": "google/gemma-3-4b-it", "image": "cat.png",
+  "response_text": "NO – It’s an animal, specifically a cat, so I cannot interact."}
+
+
+
+
+{"timestamp": "2025-08-21T15:35:54.051176", "model": "google/gemma-3-4b-it", "prompt_name": "system_prompt2", "image": "sock.png", "response_text": "YES - The sock is small and within my grasp width."}
+{"timestamp": "2025-08-21T15:36:26.685463", "model": "google/gemma-3-4b-it", "prompt_name": "system_prompt2", "image": "cat.png", "response_text": "NO – The cat is a living being, so I cannot pick it."}
+{"timestamp": "2025-08-21T15:36:59.124977", "model": "google/gemma-3-4b-it", "prompt_name": "system_prompt3", "image": "sock.png", "response_text": "pick\npurple sock"}
+{"timestamp": "2025-08-21T15:37:24.567757", "model": "google/gemma-3-4b-it", "prompt_name": "system_prompt3", "image": "cat.png", "response_text": "no pick \nbecause it’s a living being"}
